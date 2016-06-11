@@ -104,6 +104,48 @@
 			"url": "https://raw.githubusercontent.com/le0maz/wallpapers/master/wallys/wallys-9.jpg",
 			"dimensions": "3200 x 2560",
 			"copyright": "Copyright ¸ 2016 Leonardo Mazzone. All rights reserved."
+		},
+		{
+			"name": "Material-BluePlanet",
+			"author": "Leonardo Mazzone",
+			"url": "https://raw.githubusercontent.com/le0maz/wallpapers/master/wallys/Material-BluePlanet.jpg",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ©, 2016 Leonardo Mazzone. All rights reserved."
+		},
+		{
+			"name": "Material-GreenPlanet",
+			"author": "Leonardo Mazzone",
+			"url": "https://raw.githubusercontent.com/le0maz/wallpapers/master/wallys/Material-GreenPlanet.jpg",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ©, 2016 Leonardo Mazzone. All rights reserved."
+		},
+		{
+			"name": "Material-landscape",
+			"author": "Leonardo Mazzone",
+			"url": "https://raw.githubusercontent.com/le0maz/wallpapers/master/wallys/Material-landscape.jpg",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ©, 2016 Leonardo Mazzone. All rights reserved."
+		},
+		{
+			"name": "Material-RedPlanet",
+			"author": "Leonardo Mazzone",
+			"url": "https://raw.githubusercontent.com/le0maz/wallpapers/master/wallys/Material-RedPlanet.jpg",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ©, 2016 Leonardo Mazzone. All rights reserved."
+		},
+		{
+			"name": "Material-Skyline",
+			"author": "Leonardo Mazzone",
+			"url": "https://raw.githubusercontent.com/le0maz/wallpapers/master/wallys/Material-Skyline.jpg",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ©, 2016 Leonardo Mazzone. All rights reserved."
+		},
+		{
+			"name": "Material-VioletPlanet",
+			"author": "Leonardo Mazzone",
+			"url": "https://raw.githubusercontent.com/le0maz/wallpapers/master/wallys/Material-VioletPlanet.jpg",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ©, 2016 Leonardo Mazzone. All rights reserved."
 		}
 	]
 }
