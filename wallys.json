@@ -1,25 +1,81 @@
 {
 	"wallpapers": [
 		{
+			"name": "wallys-1206",
+			"author": "Leonardo Mazzone",
+			"url": "https://raw.githubusercontent.com/le0maz/json/master/walls1206/wallys-1206.jpg",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ©¸ 2016 Leonardo Mazzone. All rights reserved."
+		},
+		{
+			"name": "wallys-2-1206",
+			"author": "Leonardo Mazzone",
+			"url": "https://raw.githubusercontent.com/le0maz/json/master/walls1206/wallys-2-1206.jpg",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ©¸ 2016 Leonardo Mazzone. All rights reserved."
+		},
+		{
+			"name": "wallys-3-1206",
+			"author": "Leonardo Mazzone",
+			"url": "https://raw.githubusercontent.com/le0maz/json/master/walls1206/wallys-3-1206.jpg",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ©¸ 2016 Leonardo Mazzone. All rights reserved."
+		},
+		{
+			"name": "wallys-4-1206",
+			"author": "Leonardo Mazzone",
+			"url": "https://raw.githubusercontent.com/le0maz/json/master/walls1206/wallys-4-1206.jpg",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ©¸ 2016 Leonardo Mazzone. All rights reserved."
+		},
+		{
+			"name": "wallys-5-1206",
+			"author": "Leonardo Mazzone",
+			"url": "https://raw.githubusercontent.com/le0maz/json/master/walls1206/wallys-5-1206.jpg",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ©¸ 2016 Leonardo Mazzone. All rights reserved."
+		},
+		{
+			"name": "wallys-6-1206",
+			"author": "Leonardo Mazzone",
+			"url": "https://raw.githubusercontent.com/le0maz/json/master/walls1206/wallys-6-1206.jpg",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ©¸ 2016 Leonardo Mazzone. All rights reserved."
+		},
+		{
+			"name": "wallys-7-1206",
+			"author": "Leonardo Mazzone",
+			"url": "https://raw.githubusercontent.com/le0maz/json/master/walls1206/wallys-7-1206.jpg",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ©¸ 2016 Leonardo Mazzone. All rights reserved."
+		},
+		{
+			"name": "wallys-green-blue",
+			"author": "Leonardo Mazzone",
+			"url": "https://raw.githubusercontent.com/le0maz/json/master/walls1206/wallys-green-blue.jpg",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ©¸ 2016 Leonardo Mazzone. All rights reserved."
+		},
+		{
 			"name": "wallys-1",
 			"author": "Leonardo Mazzone",
 			"url": "https://raw.githubusercontent.com/le0maz/wallpapers/master/wallys/wallys-1.jpg",
 			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Leonardo Mazzone. All rights reserved."
+			"copyright": "Copyright ©¸ 2016 Leonardo Mazzone. All rights reserved."
 		},
 		{
 			"name": "wallys-10",
 			"author": "Leonardo Mazzone",
 			"url": "https://raw.githubusercontent.com/le0maz/wallpapers/master/wallys/wallys-10.jpg",
 			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Leonardo Mazzone. All rights reserved."
+			"copyright": "Copyright ©¸ 2016 Leonardo Mazzone. All rights reserved."
 		},
 		{
 			"name": "wallys-11",
 			"author": "Leonardo Mazzone",
 			"url": "https://raw.githubusercontent.com/le0maz/wallpapers/master/wallys/wallys-11.jpg",
 			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Leonardo Mazzone. All rights reserved."
+			"copyright": "Copyright ©¸ 2016 Leonardo Mazzone. All rights reserved."
 		},
 		{
 			"name": "wallys-12",
