@@ -1,6 +1,230 @@
 {
 	"wallpapers": [
 		{
+			"name": "antofagasta",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/antofagasta.png",
+			"dimensions": "4800 x 4800",
+			"copyright": "None"
+		},
+		{
+			"name": "antofagasta2",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/antofagasta2.png",
+			"dimensions": "4800 x 4800",
+			"copyright": "None"
+		},
+		{
+			"name": "cali",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/cali.png",
+			"dimensions": "4800 x 4800",
+			"copyright": "None"
+		},
+		{
+			"name": "delta",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/delta.png",
+			"dimensions": "4800 x 4800",
+			"copyright": "None"
+		},
+		{
+			"name": "duo",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/duo.png",
+			"dimensions": "4800 x 4800",
+			"copyright": "None"
+		},
+		{
+			"name": "earth-android-N-1",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/earth-android-N-1.png",
+			"dimensions": "2880 x 2560",
+			"copyright": "None"
+		},
+		{
+			"name": "earth-android-N-2",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/earth-android-N-2.png",
+			"dimensions": "2880 x 2560",
+			"copyright": "None"
+		},
+		{
+			"name": "earth-lollipop-2",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/earth-lollipop-2.png",
+			"dimensions": "3808 x 2560",
+			"copyright": "None"
+		},
+		{
+			"name": "earth-lollipop1",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/earth-lollipop1.png",
+			"dimensions": "2678 x 2560",
+			"copyright": "None"
+		},
+		{
+			"name": "earth-lollipop3",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/earth-lollipop3.png",
+			"dimensions": "3592 x 2560",
+			"copyright": "None"
+		},
+		{
+			"name": "earth-lollipop4",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/earth-lollipop4.png",
+			"dimensions": "3268 x 2560",
+			"copyright": "None"
+		},
+		{
+			"name": "earth-lollipop5",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/earth-lollipop5.png",
+			"dimensions": "1866 x 2000",
+			"copyright": "None"
+		},
+		{
+			"name": "earth-lollipop6",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/earth-lollipop6.png",
+			"dimensions": "3692 x 2560",
+			"copyright": "None"
+		},
+		{
+			"name": "earth-marshmallow-1",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/earth-marshmallow-1.png",
+			"dimensions": "2880 x 2560",
+			"copyright": "None"
+		},
+		{
+			"name": "earth-marshmallow-2",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/earth-marshmallow-2.png",
+			"dimensions": "2880 x 2560",
+			"copyright": "None"
+		},
+		{
+			"name": "earth-marshmallow3",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/earth-marshmallow3.png",
+			"dimensions": "2880 x 2560",
+			"copyright": "None"
+		},
+		{
+			"name": "field",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/field.png",
+			"dimensions": "4800 x 4800",
+			"copyright": "None"
+		},
+		{
+			"name": "heibei",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/heibei.png",
+			"dimensions": "4800 x 4800",
+			"copyright": "None"
+		},
+		{
+			"name": "italy-sicily",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/italy-sicily.png",
+			"dimensions": "4800 x 4800",
+			"copyright": "None"
+		},
+		{
+			"name": "italy-sicily2",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/italy-sicily2.png",
+			"dimensions": "4800 x 4800",
+			"copyright": "None"
+		},
+		{
+			"name": "karak",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/karak.png",
+			"dimensions": "4800 x 4800",
+			"copyright": "None"
+		},
+		{
+			"name": "lagoon",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/lagoon.png",
+			"dimensions": "4800 x 4800",
+			"copyright": "None"
+		},
+		{
+			"name": "lagos",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/lagos.png",
+			"dimensions": "4800 x 4800",
+			"copyright": "None"
+		},
+		{
+			"name": "lakeballard",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/lakeballard.png",
+			"dimensions": "4800 x 4800",
+			"copyright": "None"
+		},
+		{
+			"name": "lakeirwin",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/lakeirwin.png",
+			"dimensions": "4800 x 4800",
+			"copyright": "None"
+		},
+		{
+			"name": "lakes",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/lakes.png",
+			"dimensions": "4800 x 4800",
+			"copyright": "None"
+		},
+		{
+			"name": "marche",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/marche.png",
+			"dimensions": "4800 x 4800",
+			"copyright": "None"
+		},
+		{
+			"name": "nord",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/nord.png",
+			"dimensions": "4800 x 4800",
+			"copyright": "None"
+		},
+		{
+			"name": "riverflow",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/riverflow.png",
+			"dimensions": "4800 x 4800",
+			"copyright": "None"
+		},
+		{
+			"name": "sanilurfa",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/sanilurfa.png",
+			"dimensions": "4800 x 4800",
+			"copyright": "None"
+		},
+		{
+			"name": "saudiarabia",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/saudiarabia.png",
+			"dimensions": "4800 x 4800",
+			"copyright": "None"
+		},
+		{
+			"name": "tuamontus",
+			"author": "Google Earth",
+			"url": "https://bytebucket.org/le0maz/wallpapers_wallys/raw/014f6064a8b849c29bfc450b8c7d5e7c900b3bed/earth/tuamontus.png",
+			"dimensions": "4800 x 4800",
+			"copyright": "None"
+		},
+		{
 			"name": "wallys-1206",
 			"author": "Leonardo Mazzone",
 			"url": "https://raw.githubusercontent.com/le0maz/json/master/walls1206/wallys-1206.jpg",
