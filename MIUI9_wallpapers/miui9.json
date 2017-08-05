@@ -1,0 +1,81 @@
+{
+	"wallpapers": [
+		{
+			"name": "Mi 5X_wallpaper_01",
+			"author": "MIUI",
+			"url": "https://raw.githubusercontent.com/le0maz/wallpapers/master/MIUI9_wallpapers/Mi 5X_wallpaper_01.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Xiaomi"
+		},
+		{
+			"name": "Mi 5X_wallpaper_02",
+			"author": "MIUI",
+			"url": "https://raw.githubusercontent.com/le0maz/wallpapers/master/MIUI9_wallpapers/Mi 5X_wallpaper_02.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Xiaomi"
+		},
+		{
+			"name": "Mi 5X_wallpaper_03",
+			"author": "MIUI",
+			"url": "https://raw.githubusercontent.com/le0maz/wallpapers/master/MIUI9_wallpapers/Mi 5X_wallpaper_03.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Xiaomi"
+		},
+		{
+			"name": "MIUI9_wallpaper_01",
+			"author": "MIUI",
+			"url": "https://raw.githubusercontent.com/le0maz/wallpapers/master/MIUI9_wallpapers/MIUI9_wallpaper_01.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Xiaomi"
+		},
+		{
+			"name": "MIUI9_wallpaper_02",
+			"author": "MIUI",
+			"url": "https://raw.githubusercontent.com/le0maz/wallpapers/master/MIUI9_wallpapers/MIUI9_wallpaper_02.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Xiaomi"
+		},
+		{
+			"name": "MIUI9_wallpaper_03",
+			"author": "MIUI",
+			"url": "https://raw.githubusercontent.com/le0maz/wallpapers/master/MIUI9_wallpapers/MIUI9_wallpaper_03.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Xiaomi"
+		},
+		{
+			"name": "MIUI9_wallpaper_04",
+			"author": "MIUI",
+			"url": "https://raw.githubusercontent.com/le0maz/wallpapers/master/MIUI9_wallpapers/MIUI9_wallpaper_04.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Xiaomi"
+		},
+		{
+			"name": "MIUI9_wallpaper_05",
+			"author": "MIUI",
+			"url": "https://raw.githubusercontent.com/le0maz/wallpapers/master/MIUI9_wallpapers/MIUI9_wallpaper_05.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Xiaomi"
+		},
+		{
+			"name": "MIUI9_wallpaper_06",
+			"author": "MIUI",
+			"url": "https://raw.githubusercontent.com/le0maz/wallpapers/master/MIUI9_wallpapers/MIUI9_wallpaper_06.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Xiaomi"
+		},
+		{
+			"name": "MIUI9_wallpaper_07",
+			"author": "MIUI",
+			"url": "https://raw.githubusercontent.com/le0maz/wallpapers/master/MIUI9_wallpapers/MIUI9_wallpaper_07.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Xiaomi"
+		},
+		{
+			"name": "MIUI9_wallpaper_08",
+			"author": "MIUI",
+			"url": "https://raw.githubusercontent.com/le0maz/wallpapers/master/MIUI9_wallpapers/MIUI9_wallpaper_08.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Xiaomi"
+		}
+	]
+}
