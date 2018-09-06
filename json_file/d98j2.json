@@ -1,0 +1,2969 @@
+{
+    "Collections":[
+        {
+            "name":"Added Recently",
+            "preview_url":"https://i.imgur.com/G2D4Xnn.jpg",
+            "preview_thumbnail_url":"https://i.imgur.com/zMpxrLo.jpg"
+        },
+        {
+            "name":"Minimal",
+            "preview_url":"https://i.imgur.com/Y4tD3Jw.png",
+            "preview_thumbnail_url":"https://i.imgur.com/Y4tD3Jw.png"
+        },
+		{
+            "name":"City",
+            "preview_url":"https://i.imgur.com/q7VM6kO.jpg",
+            "preview_thumbnail_url":"https://i.imgur.com/q7VM6kO.jpg"
+        },
+        {
+            "name":"Satellite",
+            "preview_url":"https://i.imgur.com/zMpxrLo.jpg",
+            "preview_thumbnail_url":"https://i.imgur.com/zMpxrLo.jpg"
+        },
+        {
+            "name":"Colorful",
+            "preview_url":"https://i.imgur.com/jNy1qmK.png",
+            "preview_thumbnail_url":"https://i.imgur.com/jNy1qmK.png"
+        },
+        {
+            "name":"Amoled",
+            "preview_url":"https://i.imgur.com/fCLiY2a.png",
+            "preview_thumbnail_url":"https://i.imgur.com/fCLiY2a.png"
+        },
+		{
+            "name":"Photography",
+            "preview_url":"https://i.imgur.com/jdowHoH.jpg",
+            "preview_thumbnail_url":"https://i.imgur.com/jdowHoH.jpg"
+        },
+                {
+            "name":"Nature",
+            "preview_url":"https://i.imgur.com/xdHVHmd.jpg",
+            "preview_thumbnail_url":"https://i.imgur.com/xdHVHmd.jpg"
+        },
+		{
+            "name":"Stock",
+            "preview_url":"https://i.imgur.com/iKnOlFt.jpg",
+            "preview_thumbnail_url":"https://i.imgur.com/iKnOlFt.jpg"
+        }
+    ],
+    "Wallpapers":[
+	        {
+            "name":"Prova",
+            "author":"Prova",
+            "url":"https://drive.google.com/uc?id=1iuX3sLXFXV25JdSGWeHcubPjJImYcA0N",
+            "collections":"stock,colorful,added recently"
+		    },
+            {
+            "name":"P_Smart_01",
+            "author":"Huawei",
+            "url":"https://i.imgur.com/nXS3ZgJ.jpg",
+            "collections":"stock,colorful,added recently"
+		    },
+            {
+            "name":"P_Smart_02",
+            "author":"Huawei",
+            "url":"https://i.imgur.com/kYE04Zy.jpg",
+            "collections":"stock,colorful,added recently"
+		    },
+            {
+            "name":"Wallpaper_01",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/lHh08Qj.jpg",
+            "collections":"nature,added recently"
+		    },
+            {
+            "name":"Wallpaper_02",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/6XyASJm.jpg",
+            "collections":"nature,added recently"
+		    },
+            {
+            "name":"Wallpaper_03",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/eomsdPT.jpg",
+            "collections":"nature,added recently"
+		    },
+            {
+            "name":"Xiaomi_01",
+            "author":"Xiaomi",
+            "url":"https://i.imgur.com/gTWLfwo.jpg",
+            "collections":"stock,added recently"
+		    },
+			{
+            "name":"Xiaomi_02",
+            "author":"Xiaomi",
+            "url":"https://i.imgur.com/f1OwLfp.png",
+            "collections":"stock,added recently"
+		    },
+			{
+            "name":"Xiaomi_03",
+            "author":"Xiaomi",
+            "url":"https://i.imgur.com/clv0kXX.jpg",
+            "collections":"stock,added recently"
+		    },
+			{
+            "name":"Xiaomi_04",
+            "author":"Xiaomi",
+            "url":"https://i.imgur.com/TEIhQm1.jpg",
+            "collections":"stock,added recently"
+		    },
+			{
+            "name":"Xiaomi_05",
+            "author":"Xiaomi",
+            "url":"https://i.imgur.com/xZi0Cfm.jpg",
+            "collections":"stock,added recently"
+		    },
+			{
+            "name":"Xiaomi_06",
+            "author":"Xiaomi",
+            "url":"https://i.imgur.com/SD1ThO7.jpg",
+            "collections":"stock,added recently"
+		    },
+			{
+            "name":"Xiaomi_07",
+            "author":"Xiaomi",
+            "url":"https://i.imgur.com/wUskLzw.jpg",
+            "collections":"stock,added recently"
+		    },
+			{
+            "name":"Xiaomi_08",
+            "author":"Xiaomi",
+            "url":"https://i.imgur.com/2z2WVeE.jpg",
+            "collections":"stock,added recently"
+		    },
+			{
+            "name":"Xiaomi_09",
+            "author":"Xiaomi",
+            "url":"https://i.imgur.com/1AEeMma.jpg",
+            "collections":"stock,added recently"
+		    },
+			{
+            "name":"Xiaomi_10",
+            "author":"Xiaomi",
+            "url":"https://i.imgur.com/L9nsvag.jpg",
+            "collections":"stock,added recently"
+		    },
+			{
+            "name":"Xiaomi_11",
+            "author":"Xiaomi",
+            "url":"https://i.imgur.com/aaEyOJk.jpg",
+            "collections":"stock,added recently"
+		    },
+			{
+            "name":"Xiaomi_12",
+            "author":"Xiaomi",
+            "url":"https://i.imgur.com/pHGvYGT.jpg",
+            "collections":"stock,added recently"
+		    },
+			{
+            "name":"Xiaomi_13",
+            "author":"Xiaomi",
+            "url":"https://i.imgur.com/iI2YGIw.jpg",
+            "collections":"stock,added recently"
+		    },
+			{
+            "name":"Xiaomi_14",
+            "author":"Xiaomi",
+            "url":"https://i.imgur.com/720avd6.jpg",
+            "collections":"stock,added recently"
+		    },
+			{
+            "name":"Xiaomi_15",
+            "author":"Xiaomi",
+            "url":"https://i.imgur.com/ucs60ri.jpg",
+            "collections":"stock,added recently"
+		    },
+			{
+            "name":"Xiaomi_16",
+            "author":"Xiaomi",
+            "url":"https://i.imgur.com/AWSDHt7.jpg",
+            "collections":"stock,added recently"
+		    },
+			{
+            "name":"Xiaomi_17",
+            "author":"Xiaomi",
+            "url":"https://i.imgur.com/JO1XGq0.jpg",
+            "collections":"stock,added recently"
+		    },
+			{
+            "name":"Xiaomi_18",
+            "author":"Xiaomi",
+            "url":"https://i.imgur.com/OhiPJo6.jpg",
+            "collections":"stock,added recently"
+		    },
+			{
+            "name":"Xiaomi_19",
+            "author":"Xiaomi",
+            "url":"https://i.imgur.com/vWD7MqQ.jpg",
+            "collections":"stock,added recently"
+		    },
+			
+			{
+            "name":"Wall_01",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/xdHVHmd.jpg",
+            "collections":"added recently,nature"
+		    },
+			{
+            "name":"Wall_02",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/Z1akgvv.jpg",
+            "collections":"added recently,satellite"
+		    },
+			{
+            "name":"Wall_03",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/Pj9P5M8.jpg",
+            "collections":"added recently,colorful"
+		    },
+			{
+            "name":"Wall_04",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/A77IehK.jpg",
+            "collections":"added recently,colorful"
+		    },
+			{
+            "name":"iPad Stock",
+            "author":"Apple",
+            "url":"https://i.imgur.com/P2GYhQT.jpg",
+            "collections":"added recently,stock"
+		    },
+			{
+            "name":"Wall_05",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/EhVo4Yc.jpg",
+            "collections":"added recently,colorful"
+		    },
+			{
+            "name":"iOS",
+            "author":"Apple",
+            "url":"https://i.imgur.com/HeyxM88.jpg",
+            "collections":"added recently,stock"
+		    },
+			{
+            "name":"Wall_06",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/wZ7XrHw.jpg",
+            "collections":"added recently,colorful"
+		    },
+			{
+            "name":"Wall_07",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/9PfTvfV.png",
+            "collections":"added recently,colorful"
+		    },
+			{
+            "name":"Wall_08",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/9xQUFL4.png",
+            "collections":"added recently,colorful"
+		    },
+			{
+            "name":"Wall_09",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/KbFrHFT.jpg",
+            "collections":"added recently,colorful"
+		    },
+			{
+            "name":"Wall_10",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/f0eB3Pk.png",
+            "collections":"added recently,colorful"
+		    },
+			{
+            "name":"Wall_11",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/BJf8NsB.jpg",
+            "collections":"added recently,colorful"
+		    },
+			{
+            "name":"Wall_12",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/EMJ82VE.png",
+            "collections":"added recently,colorful"
+		    },
+			{
+            "name":"Wall_13",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/cO6sQcd.jpg",
+            "collections":"added recently,colorful"
+		    },
+			{
+            "name":"Wall_14",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/btvUy1S.jpg",
+            "collections":"added recently,colorful"
+		    },
+            {
+            "name":"Colored_1",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/G9FkYDg.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_2",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/UE9fIcq.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_3",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/JmmOFp5.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_4",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/VLfao3A.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_5",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/JbfQkGV.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_6",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/jhmd8Jz.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_7",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/YFWQmR5.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_8",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/o9PPX7q.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_9",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/Cfk3nGF.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_10",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/JIfebaZ.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_11",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/XTNSjLV.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_12",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/VkSFlwC.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_13",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/xe2PEui.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_14",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/IqnAYNX.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_15",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/8qIoaLS.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_16",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/QLts0ao.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_17",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/TmFrJTs.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_18",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/ovPpa4e.png",
+            "collections":"colorful,amoled"
+		    },
+			{
+            "name":"Colored_19",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/MVpW2OI.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_20",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/Olu1Hf9.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_21",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/6TWDJCc.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_22",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/q0hDmu9.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_23",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/I2bdCpm.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_24",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/ZVZSbaz.png",
+            "collections":"colorful,amoled"
+		    },
+			{
+            "name":"Colored_25",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/ugDG7Pi.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_26",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/HEfDov1.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_27",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/NVAaXsf.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_28",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/NbJoJb4.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_29",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/vsfxI4l.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_30",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/EoBMl7p.jpg",
+            "collections":"colorful,amoled"
+		    },
+			{
+            "name":"Colored_31",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/7BfzP8G.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_32",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/39w2V5P.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_33",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/n2p8aNN.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_34",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/88SP66j.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_35",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/zHNJF6Z.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_36",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/3zdmorb.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_37",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/VJXxjL4.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_38",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/7Yuyorh.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_39",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/pAfuoBm.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_40",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/6P6njwt.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_41",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/0TKefCE.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_42",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/ot4MVgs.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_43",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/r8zCDmR.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_44",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/r8zCDmR.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_45",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/4DTNW7Q.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_46",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/PN8MxcJ.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Pixel Mosaic",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/WdVijtC.jpg",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_48",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/GJDqxHx.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored_49",
+            "author":"Leonardo Mazzone Instagram @le0maz",
+            "url":"https://i.imgur.com/GEpC1yD.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Android_P_01",
+            "author":"Google Android P",
+            "url":"https://i.imgur.com/zUJoewQ.png",
+            "collections":"stock"
+		    },
+            {
+            "name":"OP6_Red_01",
+            "author":"OnePlus",
+            "url":"https://i.imgur.com/tvoJUU6.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"OP6_Red_02",
+            "author":"OnePlus",
+            "url":"https://i.imgur.com/fNPGeh3.jpg",
+            "collections":"stock"
+		    },
+            {
+            "name":"OP6_01",
+            "author":"OnePlus",
+            "url":"https://i.imgur.com/6y5JhEV.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"OP6_02",
+            "author":"OnePlus",
+            "url":"https://i.imgur.com/dnnplPr.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"OP6_03",
+            "author":"OnePlus",
+            "url":"https://i.imgur.com/BnW4mpj.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"OP6_04",
+            "author":"OnePlus",
+            "url":"https://i.imgur.com/Di8grXR.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"OP6_05",
+            "author":"OnePlus",
+            "url":"https://i.imgur.com/qDNRiEh.jpg",
+            "collections":"stock"
+		    },
+            {
+            "name":"LG G7 ThinQ 1",
+            "author":"LG",
+            "url":"https://i.imgur.com/DOqxbXd.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 2",
+            "author":"LG",
+            "url":"https://i.imgur.com/Wm6UuEA.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 3",
+            "author":"LG",
+            "url":"https://i.imgur.com/kSZzKAs.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 4",
+            "author":"LG",
+            "url":"https://i.imgur.com/p42bJqV.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 5",
+            "author":"LG",
+            "url":"https://i.imgur.com/DtVaGxP.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 6",
+            "author":"LG",
+            "url":"https://i.imgur.com/FVvpGXR.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 7",
+            "author":"LG",
+            "url":"https://i.imgur.com/V0QvcwQ.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 8",
+            "author":"LG",
+            "url":"https://i.imgur.com/cMECmAC.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 9",
+            "author":"LG",
+            "url":"https://i.imgur.com/MUnA48l.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 10",
+            "author":"LG",
+            "url":"https://i.imgur.com/o8wCezK.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 11",
+            "author":"LG",
+            "url":"https://i.imgur.com/pQLrY22.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 12",
+            "author":"LG",
+            "url":"https://i.imgur.com/EBM6cR8.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 13",
+            "author":"LG",
+            "url":"https://i.imgur.com/sFCqxpz.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 14",
+            "author":"LG",
+            "url":"https://i.imgur.com/Dd5JcU7.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 15",
+            "author":"LG",
+            "url":"https://i.imgur.com/ziDpFHQ.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 16",
+            "author":"LG",
+            "url":"https://i.imgur.com/UsMF8Ie.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 17",
+            "author":"LG",
+            "url":"https://i.imgur.com/73Mx02K.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 18",
+            "author":"LG",
+            "url":"https://i.imgur.com/A9x0yEG.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 19",
+            "author":"LG",
+            "url":"https://i.imgur.com/NdqDjKx.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 20",
+            "author":"LG",
+            "url":"https://i.imgur.com/jtNvixR.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 21",
+            "author":"LG",
+            "url":"https://i.imgur.com/zvgPAwH.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 22",
+            "author":"LG",
+            "url":"https://i.imgur.com/NzK6vXx.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 23",
+            "author":"LG",
+            "url":"https://i.imgur.com/xpLajP5.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 24",
+            "author":"LG",
+            "url":"https://i.imgur.com/chtvpSr.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 25",
+            "author":"LG",
+            "url":"https://i.imgur.com/qWIYscN.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 26",
+            "author":"LG",
+            "url":"https://i.imgur.com/WuZXOVm.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 27",
+            "author":"LG",
+            "url":"https://i.imgur.com/Pvm626s.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 28",
+            "author":"LG",
+            "url":"https://i.imgur.com/y6gANqF.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 29",
+            "author":"LG",
+            "url":"https://i.imgur.com/YWEFzs2.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 30",
+            "author":"LG",
+            "url":"https://i.imgur.com/VbzeLOE.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 31",
+            "author":"LG",
+            "url":"https://i.imgur.com/T1jEiZu.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 32",
+            "author":"LG",
+            "url":"https://i.imgur.com/Ibmg35K.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"LG G7 ThinQ 33",
+            "author":"LG",
+            "url":"https://i.imgur.com/bNY3YCy.jpg",
+            "collections":"stock"
+		    },
+            {
+            "name":"Flyme 7 stock 1",
+            "author":"Meizu",
+            "url":"https://i.imgur.com/jeamBlO.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Flyme 7 stock 2",
+            "author":"Meizu",
+            "url":"https://i.imgur.com/VOt3Dnk.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Flyme 7 stock 3",
+            "author":"Meizu",
+            "url":"https://i.imgur.com/w4Jwric.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Flyme 7 stock 4",
+            "author":"Meizu",
+            "url":"https://i.imgur.com/STyjMns.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Flyme 7 stock 5",
+            "author":"Meizu",
+            "url":"https://i.imgur.com/ZK46szH.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Flyme 7 stock 6",
+            "author":"Meizu",
+            "url":"https://i.imgur.com/4TEr3ZI.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Flyme 7 stock 7",
+            "author":"Meizu",
+            "url":"https://i.imgur.com/kWagud4.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Flyme 7 stock 8",
+            "author":"Meizu",
+            "url":"https://i.imgur.com/0NFN9Gk.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Flyme 7 stock 9",
+            "author":"Meizu",
+            "url":"https://i.imgur.com/haMXu0r.png",
+            "collections":"stock"
+		    },
+	        {
+            "name":"Meizu 15 stock 1",
+            "author":"Meizu",
+            "url":"https://i.imgur.com/d0aZE5I.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"Meizu 15 stock 2",
+            "author":"Meizu",
+            "url":"https://i.imgur.com/2Sho7tZ.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"Meizu 15 stock 3",
+            "author":"Meizu",
+            "url":"https://i.imgur.com/O0W6yc0.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"Meizu 15 stock 4",
+            "author":"Meizu",
+            "url":"https://i.imgur.com/stUgeGQ.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"Meizu 15 stock 5",
+            "author":"Meizu",
+            "url":"https://i.imgur.com/OhCV9Ct.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"EMUI 8 stock 1",
+            "author":"Huawei",
+            "url":"https://i.imgur.com/ohDAi2T.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"EMUI 8 stock 2",
+            "author":"Huawei",
+            "url":"https://i.imgur.com/EtcjeKV.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"EMUI 8 stock 3",
+            "author":"Huawei",
+            "url":"https://i.imgur.com/cwZjTg9.jpg",
+            "collections":"stock"
+		    },
+            {
+            "name":"Red Product",
+            "author":"Apple",
+            "url":"https://i.imgur.com/K8KpIIS.png",
+            "collections":"stock,amoled"
+		    },
+            {
+            "name":"Colored",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/Q9bJo25.jpg",
+            "collections":"colorful"
+		    },
+            {
+            "name":"Colored 1",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/1UlhLlp.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored 2",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/ZxoKZbH.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored 3",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/JOQeJuh.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored 4",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/MzZNBMc.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored 5",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/6D7eSQA.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored 6",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/tJtMDk5.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored 7",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/edInHaf.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored 8",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/07iVZno.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored 9",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/F958muC.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored 10",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/jMMNNpX.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored 11",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/rjOqaUP.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored 12",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/wvu2xuj.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored 13",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/Wt1NUdW.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Colored 14",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/n624z7i.png",
+            "collections":"colorful,amoled"
+		    },
+			{
+            "name":"Colored 15",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/6h0Nj4A.png",
+            "collections":"colorful,amoled"
+		    },
+            {
+            "name":"iPad 2018",
+            "author":"Apple",
+            "url":"https://i.imgur.com/OKugFtM.png",
+            "collections":"stock,colorful"
+		    },
+            {
+            "name":"Einstein AMOLED",
+            "author":"Cristian Fulga",
+            "url":"https://i.imgur.com/hmOOQfl.png",
+            "collections":"amoled"
+		    },
+            {
+            "name":"Pixel 2_01",
+            "author":"Google",
+            "url":"https://i.imgur.com/VFMneV5.png",
+            "collections":"stock"
+		    },
+            {
+            "name":"Pixel 2_02",
+            "author":"Google",
+            "url":"https://i.imgur.com/iasfeRf.png",
+            "collections":"stock"
+		    },
+            {
+            "name":"Pixel 2_03",
+            "author":"Google",
+            "url":"https://i.imgur.com/tDrdGew.png",
+            "collections":"stock"
+		    },
+            {
+            "name":"Pixel 2_04",
+            "author":"Google",
+            "url":"https://i.imgur.com/zYYMohC.png",
+            "collections":"stock"
+		    },
+            {
+            "name":"Oppo R15 1",
+            "author":"Oppo",
+            "url":"https://i.imgur.com/ImGFQIb.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Oppo R15 2",
+            "author":"Oppo",
+            "url":"https://i.imgur.com/0cjr03p.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Oppo R15 3",
+            "author":"Oppo",
+            "url":"https://i.imgur.com/mtnLbEB.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Oppo R15 4",
+            "author":"Oppo",
+            "url":"https://i.imgur.com/fy1TW7B.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Oppo R15 5",
+            "author":"Oppo",
+            "url":"https://i.imgur.com/ALIAw4P.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Oppo R15 6",
+            "author":"Oppo",
+            "url":"https://i.imgur.com/oA3luAA.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Oppo R15 7",
+            "author":"Oppo",
+            "url":"https://i.imgur.com/3kZpU4J.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Oppo R15 8",
+            "author":"Oppo",
+            "url":"https://i.imgur.com/aIfAoSy.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Oppo R15 9",
+            "author":"Oppo",
+            "url":"https://i.imgur.com/td54kCy.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"iPhone X OLED Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/yAynu09.png",
+            "collections":"colorful,amoled"
+		    },
+			{
+            "name":"Note 8 Style",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/7yoWgBx.png",
+            "collections":"colorful"
+		    },
+			{
+            "name":"Nokia 7 Plus 1",
+            "author":"Nokia",
+            "url":"https://i.imgur.com/gBHlcfQ.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"Nokia 7 Plus 2",
+            "author":"Nokia",
+            "url":"https://i.imgur.com/0q3TwQr.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"Nokia 7 Plus 3",
+            "author":"Nokia",
+            "url":"https://i.imgur.com/jTkN8wt.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"Nokia 7 Plus 4",
+            "author":"Nokia",
+            "url":"https://i.imgur.com/uVWYBfe.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"Nokia 7 Plus 5",
+            "author":"Nokia",
+            "url":"https://i.imgur.com/mrwdXi6.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"Nokia 7 Plus 6",
+            "author":"Nokia",
+            "url":"https://i.imgur.com/CA8sQej.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"Nokia 7 Plus 7",
+            "author":"Nokia",
+            "url":"https://i.imgur.com/9uhXPyd.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"Nokia 7 Plus 8",
+            "author":"Nokia",
+            "url":"https://i.imgur.com/MCmG8Wk.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"Nokia 7 Plus 9",
+            "author":"Nokia",
+            "url":"https://i.imgur.com/zmZWIFY.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"Nokia 7 Plus 10",
+            "author":"Nokia",
+            "url":"https://i.imgur.com/IaUxJd3.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"Nokia 7 Plus 11",
+            "author":"Nokia",
+            "url":"https://i.imgur.com/uNb0yol.jpg",
+            "collections":"stock"
+		    },
+            {
+            "name":"Android P 1",
+            "author":"Google",
+            "url":"https://i.imgur.com/nS2bTi9.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"Android P 2",
+            "author":"Google",
+            "url":"https://i.imgur.com/FnjQp9x.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Android P 3 ",
+            "author":"Google",
+            "url":"https://i.imgur.com/UxjKhBS.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"Android P 4",
+            "author":"Google",
+            "url":"https://i.imgur.com/3xnMBtd.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"Android P 5",
+            "author":"Google",
+            "url":"https://i.imgur.com/AIU7fio.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"Android P 6",
+            "author":"Google",
+            "url":"https://i.imgur.com/serkQQP.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"Android P 7",
+            "author":"Google",
+            "url":"https://i.imgur.com/kN71O7d.jpg",
+            "collections":"stock"
+		    },
+			{
+            "name":"Android P 8",
+            "author":"Google",
+            "url":"https://i.imgur.com/0S6wFGV.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Android P 9",
+            "author":"Google",
+            "url":"https://i.imgur.com/ZQDz1YR.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Android P 10",
+            "author":"Google",
+            "url":"https://i.imgur.com/uR313lf.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Android P 11",
+            "author":"Google",
+            "url":"https://i.imgur.com/wTgzb4X.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Android P 12",
+            "author":"Google",
+            "url":"https://i.imgur.com/ekf7vkt.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Android P 13",
+            "author":"Google",
+            "url":"https://i.imgur.com/XXE7r7J.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Android P 14",
+            "author":"Google",
+            "url":"https://i.imgur.com/jSaFW6y.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Android P 15",
+            "author":"Google",
+            "url":"https://i.imgur.com/QDy3Wc1.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Android P 16",
+            "author":"Google",
+            "url":"https://i.imgur.com/okvjo3p.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Android P 17",
+            "author":"Google",
+            "url":"https://i.imgur.com/8PBZUAd.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Android P 18",
+            "author":"Google",
+            "url":"https://i.imgur.com/8WksAzA.png",
+            "collections":"stock"
+		    },
+            {
+            "name":"Huawei P20 1",
+            "author":"Huawei",
+            "url":"https://i.imgur.com/zwzUl3J.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Huawei P20 2",
+            "author":"Huawei",
+            "url":"https://i.imgur.com/Rt0qrxR.png",
+            "collections":"stock,colorful"
+		    },
+			{
+            "name":"Huawei P20 3",
+            "author":"Huawei",
+            "url":"https://i.imgur.com/0IDieqr.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Huawei P20 4",
+            "author":"Huawei",
+            "url":"https://i.imgur.com/hkqDfvV.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Huawei P20 5",
+            "author":"Huawei",
+            "url":"https://i.imgur.com/i7JAOHH.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Huawei P20 6",
+            "author":"Huawei",
+            "url":"https://i.imgur.com/bfzQJFH.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Huawei P20 7",
+            "author":"Huawei",
+            "url":"https://i.imgur.com/T9xEjF3.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Huawei P20 8",
+            "author":"Huawei",
+            "url":"https://i.imgur.com/749iydh.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Huawei P20 9",
+            "author":"Huawei",
+            "url":"https://i.imgur.com/V2Lb85r.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Huawei P20 10",
+            "author":"Huawei",
+            "url":"https://i.imgur.com/08UCNWu.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Huawei P20 11",
+            "author":"Huawei",
+            "url":"https://i.imgur.com/qiWcXTW.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Huawei P20 12",
+            "author":"Huawei",
+            "url":"https://i.imgur.com/WAqlNuY.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Unsplash 1",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/DkriQeA.jpg",
+            "collections":"photography"
+		    },
+			{
+            "name":"Unsplash 2",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/v5d3EDO.jpg",
+            "collections":"photography"
+		    },
+			{
+            "name":"Unsplash 3",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/diOvATi.jpg",
+            "collections":"photography"
+		    },
+			{
+            "name":"Unsplash 4",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/rhm4OMN.jpg",
+            "collections":"photography"
+		    },
+			{
+            "name":"Unsplash 5",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/DCHq39w.jpg",
+            "collections":"photography"
+		    },
+			{
+            "name":"Unsplash 6",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/jc5cXsO.jpg",
+            "collections":"photography"
+		    },
+			{
+            "name":"Photos from Bing 1",
+            "author":"Bing",
+            "url":"https://i.imgur.com/HTC97js.jpg",
+            "collections":"photography"
+		    },
+			{
+            "name":"Photos from Bing 2",
+            "author":"Bing",
+            "url":"https://i.imgur.com/g1WK3LI.jpg",
+            "collections":"photography"
+		    },
+			{
+            "name":"Photos from Bing 3",
+            "author":"Bing",
+            "url":"https://i.imgur.com/mfp6UTv.jpg",
+            "collections":"photography"
+		    },
+			{
+            "name":"Photos from Bing 4",
+            "author":"Bing",
+            "url":"https://i.imgur.com/PvE4i9l.jpg",
+            "collections":"photography"
+		    },
+			{
+            "name":"Photos from Bing 5",
+            "author":"Bing",
+            "url":"https://i.imgur.com/RncAWM4.jpg",
+            "collections":"photography"
+		    },
+			{
+            "name":"Photos from Bing 6",
+            "author":"Bing",
+            "url":"https://i.imgur.com/TKbucmT.jpg",
+            "collections":"photography"
+		    },
+			{
+            "name":"Photos from Bing 7",
+            "author":"Bing",
+            "url":"https://i.imgur.com/Gfpt2Zm.jpg",
+            "collections":"photography"
+		    },
+            {
+            "name":"Flat Colors_2",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/aurQI85.png",
+            "collections":"minimal"
+		    },
+			{
+            "name":"Lineage OS White",
+            "author":"Cristian Fulga",
+            "url":"https://i.imgur.com/7JmvueR.png",
+            "collections":"minimal"
+		    },
+			{
+            "name":"Falco Minimal",
+            "author":"Cristian Fulga",
+            "url":"https://i.imgur.com/dL7Q5Y6.png",
+            "collections":"minimal"
+		    },
+			{
+            "name":"Lineage OS AMOLED",
+            "author":"Cristian Fulga",
+            "url":"https://i.imgur.com/0UHZJeO.png",
+            "collections":"minimal,amoled"
+		    },
+            {
+            "name":"Flat Colors_1",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/aPOiH3j.png",
+            "collections":"minimal"
+		    },
+			{
+            "name":"Google Minimal",
+            "author":"Cristian Fulga",
+            "url":"https://i.imgur.com/fIxy26s.png",
+            "collections":"minimal"
+		    },
+			{
+            "name":"Flat Colors_3",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/f8kzbJc.png",
+            "collections":"minimal"
+		    },
+			{
+            "name":"Flat Colors_4",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/7how141.png",
+            "collections":"minimal"
+		    },
+			{
+            "name":"Flat Colors_5",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/LGVC0h1.png",
+            "collections":"minimal"
+		    },
+			{
+            "name":"Flat Colors_6",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/dIpnsuo.png",
+            "collections":"minimal"
+		    },
+	        {
+            "name":"Yosemite National Park",
+            "author":"Unsplash",
+            "url":"https://i.imgur.com/dQO5n7k.jpg",
+            "collections":"photography"
+		    },
+			{
+            "name":"Yosemite National Park",
+            "author":"Unsplash",
+            "url":"https://i.imgur.com/Am6D0tk.jpg",
+            "collections":"photography"
+		    },
+			{
+            "name":"Yosemite National Park",
+            "author":"Unsplash",
+            "url":"https://i.imgur.com/TjOxohG.jpg",
+            "collections":"photography"
+		    },
+			{
+            "name":"Yosemite National Park",
+            "author":"Unsplash",
+            "url":"https://i.imgur.com/RjyRvr7.jpg",
+            "collections":"photography"
+		    },
+			{
+            "name":"Yosemite National Park",
+            "author":"Unsplash",
+            "url":"https://i.imgur.com/umHbEHO.jpg",
+            "collections":"photography"
+		    },
+			{
+            "name":"Yosemite National Park",
+            "author":"Unsplash",
+            "url":"https://i.imgur.com/jXUU2FO.jpg",
+            "collections":"photography"
+		    },
+			{
+            "name":"Yosemite National Park",
+            "author":"Unsplash",
+            "url":"https://i.imgur.com/vOstIPv.jpg",
+            "collections":"photography"
+		    },
+			{
+            "name":"Mountain",
+            "author":"Unsplash",
+            "url":"https://i.imgur.com/LfDQWhw.jpg",
+            "collections":"photography"
+		    },
+			{
+            "name":"Photo by Unsplash",
+            "author":"Unsplash",
+            "url":"https://i.imgur.com/bUPqgxl.jpg",
+            "collections":"photography"
+		    },
+			{
+            "name":"Contrast Sea",
+            "author":"Unsplash",
+            "url":"https://i.imgur.com/IlIgMda.jpg",
+            "collections":"photography"
+		    },
+			{
+            "name":"Photo by Unsplash",
+            "author":"Unsplash",
+            "url":"https://i.imgur.com/KRf9Xb0.jpg",
+            "collections":"photography"
+		    },
+			{
+            "name":"Sea Black and White",
+            "author":"Unsplash",
+            "url":"https://i.imgur.com/EAKaLpe.jpg",
+            "collections":"photography"
+		    },
+            {
+            "name":"Galaxy S9 Violet",
+            "author":"Samsung",
+            "url":"https://i.imgur.com/vbPvOaw.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Galaxy S9 Dandelion",
+            "author":"Samsung",
+            "url":"https://i.imgur.com/AgJMpW6.png",
+            "collections":"stock,amoled"
+		    },
+			{
+            "name":"Galaxy S9 Red",
+            "author":"Samsung",
+            "url":"https://i.imgur.com/HWbwt2O.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Galaxy S9 Red Shade",
+            "author":"Samsung",
+            "url":"https://i.imgur.com/NJnAiDR.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Galaxy S9 Blue",
+            "author":"Samsung",
+            "url":"https://i.imgur.com/kbWddMY.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Galaxy S9 Orange",
+            "author":"Samsung",
+            "url":"https://i.imgur.com/kvduIL2.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Galaxy S9 Blue Grey",
+            "author":"Samsung",
+            "url":"https://i.imgur.com/UEZyxI6.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Galaxy S9 Grey Shade",
+            "author":"Samsung",
+            "url":"https://i.imgur.com/4hyypnn.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Galaxy S9 Orange Shade",
+            "author":"Samsung",
+            "url":"https://i.imgur.com/5BZjm7K.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Galaxy S9 Blue Violet Shade",
+            "author":"Samsung",
+            "url":"https://i.imgur.com/ecDfFNr.png",
+            "collections":"stock"
+		    },
+			{
+            "name":"Galaxy S9 Blue Shade",
+            "author":"Samsung",
+            "url":"https://i.imgur.com/Barzj3U.png",
+            "collections":"stock"
+		    },
+                        {
+            "name":"Galaxy S9 Black",
+            "author":"Samsung",
+            "url":"https://i.imgur.com/f7K0JMQ.png",
+            "collections":"stock"
+		    },
+                        {
+            "name":"Galaxy S9 Grey",
+            "author":"Samsung",
+            "url":"https://i.imgur.com/RNcr4s8.png",
+            "collections":"stock"
+		    },
+                        {
+            "name":"Galaxy S9 - Violet",
+            "author":"Samsung",
+            "url":"https://i.imgur.com/O2ZGO8A.png",
+            "collections":"stock"
+		    },
+                        {
+            "name":"Galaxy S9 - Violet",
+            "author":"Samsung",
+            "url":"https://i.imgur.com/Pba5PgD.png",
+            "collections":"stock"
+		    },
+                        {
+            "name":"AMOLED Pansies",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/lIdXXe6.png",
+            "collections":"amoled"
+		    },
+                        {
+            "name":"Pansies Flower",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/nRwS9YX.png",
+            "collections":"amoled"
+		    },
+                        {
+            "name":"Falco AMOLED",
+            "author":"Cristian Fulga",
+            "url":"https://i.imgur.com/24tDBYa.png",
+            "collections":"amoled"
+		    },
+                        {
+            "name":"Yellow AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/EIfRSkR.png",
+            "collections":"amoled"
+		    },
+            {
+            "name":"Yellow Blue Material",
+            "author":"Cristian Fulga",
+            "url":"https://i.imgur.com/cM6ORnX.png",
+            "collections":"minimal"
+	    },
+            {
+            "name":"New York Skyline",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/d9I3NyU.jpg",
+            "collections":"city,photography"
+		},
+		{
+            "name":"Metropolitan",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/q7VM6kO.jpg",
+            "collections":"photography,city"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/68mjkZy.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Minimal Sunset",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/Y4tD3Jw.png",
+            "collections":"minimal"
+		},
+		{
+            "name":"Colorful X",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/j8nlHSh.png",
+            "collections":"colorful"
+		},
+		{
+            "name":"Colorful X",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/msRa50P.png",
+            "collections":"colorful"
+		},
+		{
+            "name":"Colorful X",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/Zit20TJ.png",
+            "collections":"colorful"
+		},
+		{
+            "name":"Colorful X",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/hCSAUHI.png",
+            "collections":"colorful"
+		},
+		{
+            "name":"Colorful X",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/qjeLMkd.png",
+            "collections":"colorful,amoled"
+		},
+		{
+            "name":"Abstract Minimal",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/VrYbQra.png",
+            "collections":"minimal"
+		},
+		{
+            "name":"Abstract Colored",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/tCYyqsH.png",
+            "collections":"minimal"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/nOgSd3a.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/bbhB49u.png",
+            "collections":"minimal"
+		},
+		{
+            "name":"Material",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/ZpPuuKL.png",
+            "collections":"minimal"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/T7ks3jB.png",
+            "collections":"photography"
+		},
+		{
+            "name":"Colored AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/BBnJsdx.png",
+            "collections":"amoled"
+		},
+		{
+            "name":"City by night",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/IovFE08.jpg",
+            "collections":"photography,city"
+		},
+		{
+            "name":"Material Colors",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/Yr3Mh3k.png",
+            "collections":"minimal"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/zUY8ZHw.png",
+            "collections":"photography"
+		},
+		{
+            "name":"LED lights",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/6FRDIuR.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Minimal City",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/7kBKYV1.png",
+            "collections":"minimal"
+		},
+		{
+            "name":"Flat Colors",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/7MOcmFD.png",
+            "collections":"minimal"
+		},
+		{
+            "name":"City lights",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/l8Edd9n.jpg",
+            "collections":"photography,city"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/BWOgSMp.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Material Design",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/BGYrBWP.jpg",
+            "collections":"minimal"
+		},
+		{
+            "name":"Material Colors",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/H4NUZAQ.jpg",
+            "collections":"minimal"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/okrsWID.jpg",
+            "collections":"photography,amoled"
+		},
+		{
+            "name":"Material Palette",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/ZBpM9mP.png",
+            "collections":"minimal"
+		},
+		{
+            "name":"Bridge",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/IROYBep.jpg",
+            "collections":"photography,city"
+		},
+		{
+            "name":"Red Earth",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/XGJz89A.jpg",
+            "collections":"satellite"
+		},
+		{
+            "name":"Mountain",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/VB3jsWD.jpg",
+            "collections":"photography"
+		},
+            {
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/G2D4Xnn.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/ibSTVvv.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/ffGNH5G.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/mmQi5Gw.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/xgUZwtD.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/hrTCIZJ.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/g6UZ47j.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/Dy90xeY.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/7f9ff5Y.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/JttStBD.jpg",
+            "collections":"photography"
+		},
+	    {
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/jdowHoH.jpg",
+            "collections":"photography"
+		},
+            {
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/TkKJQ8D.jpg",
+            "collections":"photography"
+	    },
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/bYi44sK.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/zL8bHYd.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/qCdI5ml.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/hBnWci3.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/ivDtmIS.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/aOnkxrK.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/knQscRC.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/KvF75uo.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/YoO3g8U.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/dQvfzkO.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/i5cfU2t.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/zcIVEV7.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://i.imgur.com/BHQjZyB.jpg",
+            "collections":"photography"
+		},
+	    {
+            "name":"Bing",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/08PLZbh.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Bing",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/rWvfBfc.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Bing",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/EcKPEuX.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Bing",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/T1xXkRA.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Bing",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/S7wZ00m.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Bing",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/FuEn5Av.jpg",
+            "collections":"photography"
+		},
+	    {
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/yXSFLi2.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/V4lLQCV.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/zlHHM0C.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/tkHAeyz.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/Mn4xzKg.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/HHMU5U4.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"NASA",
+            "url":"https://i.imgur.com/oCLF6xl.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/1kLJfJ3.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/j3wXyp6.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/dia3chk.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/Aqf5VSH.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/6nCx1Zs.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/zmvL9VZ.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/lD80Z00.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/SL1KJF5.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/AfXUiep.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/46DupDM.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/lRFsLkU.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/eJzCFyt.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/xPVtxla.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/ZIQMxAW.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/V3GzLk7.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/KGpqOxT.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/tBjQN90.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/3BMhCrc.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/OyWYWze.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/HplBPQ7.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/yB8kaaM.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/CJSJ3UO.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://i.imgur.com/soacWb3.jpg",
+            "collections":"photography"
+        },
+        {
+            "name":"Mars AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/fCLiY2a.png",
+            "collections":"amoled"
+        },
+        {
+            "name":"Abstract AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/d2RcGIq.png",
+            "collections":"amoled"
+        },
+        {
+            "name":"Abstract AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/tLcYJrt.png",
+            "collections":"amoled"
+        },
+        {
+            "name":"NASA",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/o5Sw7sV.png",
+            "collections":"amoled"
+        },
+        {
+            "name":"Abstract AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/uRaNhPJ.png",
+            "collections":"amoled"
+        },
+        {
+            "name":"Abstract AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/xrWU6sS.png",
+            "collections":"amoled"
+        },
+        {
+            "name":"Abstract AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/MAXWByW.png",
+            "collections":"amoled"
+        },
+        {
+            "name":"Abstract AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/ky6xPtv.png",
+            "collections":"amoled"
+        },
+        {
+            "name":"Moon AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/kEkREkt.png",
+            "collections":"amoled"
+        },
+        {
+            "name":"Rose AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/n4vogTo.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/yTjR4np.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Flower AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/hWdWjnZ.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/o7UQC9p.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/q4u6gpa.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/HmjBmeg.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/8X8m0Kr.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/IZMckgo.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/W34oAKb.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"White flower AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/3bjc82K.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/BjnQNzp.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/U7WWH3i.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Planet AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/2IPpFsv.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/mA4BXk1.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Orange Flower AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/giL6PrC.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/koDhrEd.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/GBQysul.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Colorful AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/I36Dfnj.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/bWx9uvz.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/GRA10mU.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Moon AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/L6r1SMU.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/mn5bxN6.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/4E0Fqgu.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/CeH76QJ.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Galaxy AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/N9CVM4E.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Galaxy AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/98Wiv4s.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/rGHFkwW.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/fAuSJp9.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Astronomy AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/7OM1Bhb.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/0QRMzH0.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/j22Flur.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/XnbFchv.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/sen9Gp1.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Earth AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/fEptDCk.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/dTchu12.png",
+            "collections":"amoled"
+        },
+        {
+            "name":"Contrast",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/8adiD1m.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Delta",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/40dZZzj.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Field",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/uT1zlof.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Heibei",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/SKgJC1F.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Karak",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/dKxSSAO.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Lagoon",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/pLVsFCH.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Lakeirwin",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/X6D2ygX.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Lagos",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/qXl72oq.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Lakes",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/UA8DNPG.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Riverflow",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/lUpiQky.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Sanilurfa",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/MJK3yrE.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Tuamontus",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/WGUKa9V.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"antofagasta",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/ml8TrfQ.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Satellite",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/2SmtzRz.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Satellite",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/dKxSSAO.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Satellite",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/WGUKa9V.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Satellite",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/WG2IPQz.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Satellite",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/8adiD1m.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Satellite",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/TP0quVf.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Satellite",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/6hJt8xY.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Satellite",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/RI6yoWh.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Satellite",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/IDnoajw.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Satellite",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/qugPJCW.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Lakeballard",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/Tc99COe.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Marche Italy",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/kk7v71u.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Nord",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/lkEiYQ1.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Satellite",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/vyOv6vm.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Saudi Arabia",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/dxdx7E6.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Sicily",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/BdOnDfi.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Sicily in Italy",
+            "author":"Unknown",
+            "url":"https://i.imgur.com/OKPmOkK.jpg",
+            "collections":"satellite"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/jNy1qmK.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/yLwdWtB.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/QYlz3V7.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/R8nUboE.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/4WYvQtf.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/dnU1xFq.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/cDSsOef.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/L2XeSJz.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/f9Wb1qS.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/fXNfwui.png",
+            "collections":"colorful"
+        },
+        {
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/JYfk156.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/d97qmpZ.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://i.imgur.com/WWmqBOo.png",
+            "collections":"colorful" 
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://i.imgur.com/iKnOlFt.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://i.imgur.com/ZrxLpYc.png",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://i.imgur.com/xnQl5sj.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://i.imgur.com/OlhHrAb.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://i.imgur.com/CcSUgJ0.png",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://i.imgur.com/LPB3R0i.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://i.imgur.com/gyFbacW.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://i.imgur.com/amB1vp7.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://i.imgur.com/O5eeEer.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://i.imgur.com/hoeJIlN.jpg",
+            "collections":"stock,colorful"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://i.imgur.com/EvXrAfH.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://i.imgur.com/7XgAFCn.jpg",
+            "collections":"stock,amoled"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://i.imgur.com/j53ZpEL.jpg",
+            "collections":"stock,amoled"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://i.imgur.com/cecY3Nm.jpg",
+            "collections":"stock,colorful"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://i.imgur.com/7YMpI4x.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://i.imgur.com/wb5pmME.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://i.imgur.com/79mU30m.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://i.imgur.com/6RAB9jL.jpg",
+            "collections":"stock,amoled"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://i.imgur.com/QRTVcXh.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://i.imgur.com/cHh7J6O.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://i.imgur.com/QLPxp4k.png",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://i.imgur.com/NmEbjQs.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://i.imgur.com/ZiN49Zt.jpg",
+            "collections":"stock,amoled"
+        },
+		{
+            "name":"Stock OnePlus",
+            "author":"OnePlus",
+            "url":"https://i.imgur.com/RtOduWs.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock OnePlus",
+            "author":"OnePlus",
+            "url":"https://i.imgur.com/It13gOF.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock OnePlus",
+            "author":"OnePlus",
+            "url":"https://i.imgur.com/pti0ZQF.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock OnePlus",
+            "author":"OnePlus",
+            "url":"https://i.imgur.com/ZIix4ae.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock OnePlus",
+            "author":"OnePlus",
+            "url":"https://i.imgur.com/hsTeHOh.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock OnePlus",
+            "author":"OnePlus",
+            "url":"https://i.imgur.com/YUBFSBL.jpg",
+            "collections":"stock"
+        }
+		
+    ]
+}
